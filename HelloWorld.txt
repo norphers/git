@@ -1,3 +1,4 @@
-First doc of the project hello-world
-Changes from master to branch1
-Doc edited in branch1
+Hello World Git! 
+
+...working on branch 'HelloWorld'
+...master branch name is changed by 'dev'
